@@ -1,1 +1,9 @@
-GroupProject/Intermediate/
+/Intermediate
+/Binaries
+/DerivedDataCache
+/Saved
+*.sln
+*.sdf
+*.suo
+
+
